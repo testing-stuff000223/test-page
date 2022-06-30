@@ -1,3 +1,1 @@
 theme: jekyll-theme-minimal
-incremental: true
-include: [".jekyll-metadata"]
